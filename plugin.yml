@@ -1,0 +1,15 @@
+name: InvApiTest
+main: LunarMoon72\InvApiTest\Main
+api: 3.21.1
+mcpe-protocal: 448
+version: 0.0.1
+
+commands:
+  test:
+    description: Test Inventory
+    aliases: test
+    permission: invapitest.cmd
+
+permissions:
+  invapitest.cmd:
+    description: Permission lol
